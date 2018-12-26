@@ -1,14 +1,23 @@
-body {
-  margin: 0;
-  padding: 0;
-  font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", "Roboto", "Oxygen",
-    "Ubuntu", "Cantarell", "Fira Sans", "Droid Sans", "Helvetica Neue",
-    sans-serif;
-  -webkit-font-smoothing: antialiased;
-  -moz-osx-font-smoothing: grayscale;
+
+
+
+
+.title  {
+    margin-top: 5vh;
+}
+.wellGenerate{
+
+    max-width: 50rem;
+    margin-top: 20vh;
 }
 
-code {
-  font-family: source-code-pro, Menlo, Monaco, Consolas, "Courier New",
-    monospace;
+.container{
+    background-color: antiquewhite;
 }
+
+.kitties-grid{
+    margin-top: 1.5rem;
+    margin-bottom: 1.5rem;
+}
+
+
