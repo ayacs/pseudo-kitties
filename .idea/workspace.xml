@@ -1,29 +1,29 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="6132d7be-63f0-4fdc-950d-ba664cfc493b" name="Default" comment="docs">
-      <change beforePath="" afterPath="$PROJECT_DIR$/docs/asset-manifest.json" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/docs/favicon.ico" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/docs/index.html" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/docs/manifest.json" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/docs/precache-manifest.525f6fb96f94737d8361e53c050a6e4a.js" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/docs/service-worker.js" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/docs/static/css/1.b768348d.chunk.css" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/docs/static/css/1.b768348d.chunk.css.map" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/docs/static/css/main.60c4a565.chunk.css" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/docs/static/css/main.60c4a565.chunk.css.map" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/docs/static/js/1.d41489c0.chunk.js" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/docs/static/js/1.d41489c0.chunk.js.map" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/docs/static/js/main.0b3a1296.chunk.js" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/docs/static/js/main.0b3a1296.chunk.js.map" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/docs/static/js/runtime~main.20986b00.js" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/docs/static/js/runtime~main.20986b00.js.map" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/docs/static/media/glyphicons-halflings-regular.448c34a5.woff2" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/docs/static/media/glyphicons-halflings-regular.89889688.svg" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/docs/static/media/glyphicons-halflings-regular.e18bbf61.ttf" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/docs/static/media/glyphicons-halflings-regular.f4769f9b.eot" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/docs/static/media/glyphicons-halflings-regular.fa277232.woff" />
+    <list default="true" id="6132d7be-63f0-4fdc-950d-ba664cfc493b" name="Default" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
+      <change beforePath="$PROJECT_DIR$/docs/asset-manifest.json" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/docs/favicon.ico" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/docs/index.html" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/docs/manifest.json" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/docs/precache-manifest.525f6fb96f94737d8361e53c050a6e4a.js" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/docs/service-worker.js" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/docs/static/css/1.b768348d.chunk.css" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/docs/static/css/1.b768348d.chunk.css.map" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/docs/static/css/main.60c4a565.chunk.css" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/docs/static/css/main.60c4a565.chunk.css.map" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/docs/static/js/1.d41489c0.chunk.js" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/docs/static/js/1.d41489c0.chunk.js.map" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/docs/static/js/main.0b3a1296.chunk.js" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/docs/static/js/main.0b3a1296.chunk.js.map" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/docs/static/js/runtime~main.20986b00.js" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/docs/static/js/runtime~main.20986b00.js.map" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/docs/static/media/glyphicons-halflings-regular.448c34a5.woff2" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/docs/static/media/glyphicons-halflings-regular.89889688.svg" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/docs/static/media/glyphicons-halflings-regular.e18bbf61.ttf" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/docs/static/media/glyphicons-halflings-regular.f4769f9b.eot" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/docs/static/media/glyphicons-halflings-regular.fa277232.woff" afterPath="" />
     </list>
     <ignored path="$PROJECT_DIR$/.tmp/" />
     <ignored path="$PROJECT_DIR$/temp/" />
@@ -79,21 +79,11 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="index.html" pinned="false" current-in-tab="false">
+      <file leaf-file-name="index.html" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/build/index.html">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="0">
               <caret line="0" column="26" lean-forward="false" selection-start-line="0" selection-start-column="26" selection-end-line="0" selection-end-column="26" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="service-worker.js" pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/docs/service-worker.js">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="221">
-              <caret line="13" column="0" lean-forward="false" selection-start-line="13" selection-start-column="0" selection-end-line="13" selection-end-column="0" />
               <folding />
             </state>
           </provider>
@@ -350,7 +340,7 @@
       <workItem from="1544107743514" duration="23749000" />
       <workItem from="1544433418141" duration="40466000" />
       <workItem from="1544693233159" duration="126476000" />
-      <workItem from="1545470825972" duration="11370000" />
+      <workItem from="1545470825972" duration="11533000" />
     </task>
     <task id="LOCAL-00001" summary="first">
       <created>1545821087799</created>
@@ -366,11 +356,18 @@
       <option name="project" value="LOCAL" />
       <updated>1545822967303</updated>
     </task>
-    <option name="localTasksCounter" value="3" />
+    <task id="LOCAL-00003" summary="docs">
+      <created>1545823277377</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1545823277377</updated>
+    </task>
+    <option name="localTasksCounter" value="4" />
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="265333000" />
+    <option name="totallyTimeSpent" value="265496000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-8" y="-8" width="1936" height="1056" extended-state="6" />
