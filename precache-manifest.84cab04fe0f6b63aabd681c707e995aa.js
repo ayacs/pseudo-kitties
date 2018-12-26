@@ -40,7 +40,7 @@ self.__precacheManifest = [
     "url": "/pseudo-kitties/static/css/1.b768348d.chunk.css"
   },
   {
-    "revision": "ce10b5cfe53fcf5533cd8704052ea59d",
+    "revision": "ece67a5545650e72a1bf1c1bc954c579",
     "url": "/pseudo-kitties/index.html"
   }
 ];
