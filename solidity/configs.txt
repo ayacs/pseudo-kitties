@@ -1,0 +1,4 @@
+remixd -s E:\projects\react_test_app\solidity\ --remix-ide https://remix.ethereum.org
+
+
+greeter address: 0xa33b061ca9f8aec990fbb6b6e036510a496d1a72
